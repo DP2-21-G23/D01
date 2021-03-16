@@ -16,7 +16,7 @@ master.banner.background = #FFE97F
 
 master.welcome.title = ¡Bienvenidos!
 master.welcome.text = \
-	Bienvenidos a Acme One!  Nunca antes ha sido tan sencillo desarrollar un \
+	¡Bienvenidos a Acme One!  Nunca antes ha sido tan sencillo desarrollar un \
 	proyecto y hacerlo funcionar.
 
 # master.menu #################################################################
@@ -31,6 +31,7 @@ master.menu.sign-out = Salir
 master.menu.anonymous = Anónimo
 master.menu.anonymous.favourite-link.adri = Enlace de Fernández
 master.menu.anonymous.favourite-link.toledo = Enlace de Toledo
+master.menu.anonymous.favourite-link.bonacini	= Enlace de Bonacini
 
 # master.menu.administrator ###################################################
 

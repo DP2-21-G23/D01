@@ -11,3 +11,4 @@
 - Rafael Corchuelo (corchu@us.es)
 - Adrián Fernández Fernández (adrferfer@alum.us.es)
 - Alberto Toledo Mayorga (albtolmay@alum.us.es)
+- Luca Bonacini (lucbon@alum.us.es)
