@@ -19,6 +19,7 @@
 <acme:menu-bar code="master.menu.home">
 	<acme:menu-left>
 		<acme:menu-option code="master.menu.anonymous" access="isAnonymous()">
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link.bonacini" action="https://www.linkedin.com/in/luca-bonacini-a6b650173/"/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link.adri" action="https://github.com/adrferfer"/>
 		</acme:menu-option>
 

@@ -28,8 +28,9 @@ master.menu.sign-out = Salir
 
 # master.menu.anonymous #######################################################
 
-master.menu.anonymous = Anónimo
-master.menu.anonymous.favourite-link.adri = Enlace de Fernández
+master.menu.anonymous 							= Anónimo
+master.menu.anonymous.favourite-link.bonacini	= Enlace de Bonacini
+master.menu.anonymous.favourite-link.adri 		= Enlace de Fernández
 
 # master.menu.administrator ###################################################
 
